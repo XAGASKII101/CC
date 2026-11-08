@@ -1,0 +1,9 @@
+{
+  "name": "cryptochains",
+  "version": "2.0.0",
+  "description": "Cryptochains — Private by design web wallet and calm custody interface",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
